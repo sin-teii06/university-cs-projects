@@ -1,0 +1,47 @@
+header
+{ background-color:maroon;
+    color:white;
+
+}
+nav 
+{ text-align: center;
+    float: flex;
+    justify-content: center;
+}
+nav a 
+{ color: white;
+  text-decoration: none;
+  margin:  55px;
+  border-right: 1px solid white;
+}
+.profile 
+{ text-align: right;
+  margin-top: 0.5px;
+}
+.intro 
+{ max-width: 490px;
+}
+
+main
+{
+    width:50%;
+    height:auto;
+    float:left;
+}
+.login-btn
+{
+   background-color: maroon;
+   color: white;
+}
+
+
+footer
+{
+    background-color: maroon;
+    color: white;
+    text-align: center;
+}
+.aside
+{
+    display: flex;
+}
